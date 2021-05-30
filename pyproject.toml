@@ -8,6 +8,7 @@ authors = ["Rawan199812 <rawan.13579@icloud.com>"]
 python = "^3.8"
 jupyterlab = "^3.0.16"
 pandas = "^1.2.4"
+sklearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 
